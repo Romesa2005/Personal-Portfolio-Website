@@ -15,7 +15,7 @@ It serves as a central place to showcase my **skills, projects, and experiences*
 ---
 
 ## 🚀 Tech Stack
-- **Frontend:** React, JavaScript (ES6+), SCSS  
+- **Frontend:** React, JavaScript, SCSS  
 - **Maps:** Leaflet + OpenStreetMap  
 - **Build Tooling:** Node.js, npm  
 - **Deployment:** GitHub Pages (`npm run deploy`)  
