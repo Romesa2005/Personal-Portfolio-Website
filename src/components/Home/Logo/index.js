@@ -5,8 +5,8 @@ import LogoS from '../../../assets/images/logo-s.png';
 // Import React hooks
 import { useEffect, useRef } from 'react';
 // Import GSAP animation library and plugin
-import gsap from 'gsap-trial';
-import DrawSVGPlugin from 'gsap-trial/DrawSVGPlugin';
+import gsap from 'gsap';
+import DrawSVGPlugin from 'gsap/DrawSVGPlugin';
 
 const Logo = () => {
   // Ref for the background container
