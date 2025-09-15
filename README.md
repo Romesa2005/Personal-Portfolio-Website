@@ -18,13 +18,12 @@ It serves as a central place to showcase my **skills, projects, and experiences*
 - **Frontend:** React, JavaScript (ES6+), SCSS  
 - **Maps:** Leaflet + OpenStreetMap  
 - **Build Tooling:** Node.js, npm  
-- **Deployment:** (To be added — GitHub Pages / Netlify / Vercel)  
+- **Deployment:** GitHub Pages (`npm run deploy`)  
 
 ---
 
 ## 📸 Preview
 https://romesa2005.github.io/Personal-Portfolio-Website 
-*(Replace with an actual screenshot of your site once deployed)*
 
 ---
 
