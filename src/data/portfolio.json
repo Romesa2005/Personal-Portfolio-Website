@@ -1,0 +1,46 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/paint.jpg",
+            "title": "Java Paint Application",
+            "description": "Java, Llama3 Integration, Event Handling, JavaFx, Development Cycles (Scrum)",
+            "url": "https://github.com/Romesa2005/Java-Paint-Application"
+        }
+        ,
+        {
+            "cover": "/portfolio/pizza.jpg",
+            "title": "SQL Queries Sales Project",
+            "description": "SQL, Database Management including complex queries, joins, and aggregations",
+            "url": "https://github.com/Romesa2005/SQL-Queries-Project-Pizza-Sales"
+        }
+        
+        ,
+        {
+            "cover": "/portfolio/chatbot.jpg",
+            "title": "Chatbot",
+            "description": "Node.js, AI, API Integration",
+            "url": "https://github.com/Romesa2005/CHATBOT-Node.js"
+        }
+        ,
+        {
+            "cover": "/portfolio/c.jpg",
+            "title": "C Linux/Unix shell project",
+            "description": "C, Linux, Unix, Shell Scripting",
+            "url": "https://github.com/Romesa2005/Functional_Linux-Unix_Shell"
+        }
+        ,
+        {
+            "cover": "/portfolio/othello.jpg",
+            "title": "Java Othello Board Game",
+            "description": "Java, GUI Development, OOP Principles",
+            "url": "https://github.com/Romesa2005/Othello-Board-Game"
+        }
+        ,
+        {
+            "cover": "/portfolio/python.jpg",
+            "title": "Python Interpreter",
+            "description": "Lexical Analysis, Parsing, Interpreter Design",
+            "url": "https://github.com/Romesa2005/Interpreter"
+        }
+    ]
+}
